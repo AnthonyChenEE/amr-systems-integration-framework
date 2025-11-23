@@ -1,5 +1,6 @@
 # Autonomous Mobile Robot Systems Integration Framework  
 A modular, end-to-end autonomy stack for perception, localization, planning, control, and systems integration.
+<img width="1024" height="1024" alt="amr" src="https://github.com/user-attachments/assets/2b7d9516-72e6-4d28-b7ce-efee8157dbd3" />
 
 ---
 
