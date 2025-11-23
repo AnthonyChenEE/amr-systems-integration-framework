@@ -1,2 +1,6 @@
-# amr-systems-integration-framework
-Full-stack autonomous mobile robot integration framework, featuring modular perception, EKF-based state estimation, VIO-style dead-reckoning, nonlinear MPC-inspired planning, real-time control, and a unified systems-integration pipeline. Designed to demonstrate industry-grade robotics engineering and full autonomy stack understanding.
+# Autonomous Mobile Robot Systems Integration Framework
+
+This repository presents a modular systems integration framework for Autonomous Mobile Robots (AMRs).
+
+It demonstrates a full stack from perception and localization to planning, control, and an integration pipeline.
+The code is lightweight and focused on clarity so it can be extended for real robots or used as a portfolio project.
